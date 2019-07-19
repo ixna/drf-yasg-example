@@ -1,0 +1,7 @@
+.idea/*
+*.pyc
+drfDocs/__pycache__
+appA/__pycache__/*
+media/*
+db.sqlite3
+.idea/
