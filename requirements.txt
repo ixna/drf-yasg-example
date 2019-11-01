@@ -20,7 +20,7 @@ jsonschema==3.0.1
 MarkupSafe==1.1.1
 oauthlib==3.0.2
 packaging==19.0
-Pillow==6.1.0
+Pillow==6.2.0
 pyparsing==2.4.0
 pyrsistent==0.15.3
 pytz==2019.1
